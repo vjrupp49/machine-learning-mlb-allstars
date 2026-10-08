@@ -48,8 +48,12 @@ XGBoost and Random Forest performed best, though none of the models broke an F1 
 
 - `Executive Summary ML Project.pdf` — write-up of methodology, results, and takeaways
 - `Portfolio Document ML Project.pdf` — full portfolio document, co-authored with Sean Littmann
-- `Code from ML Project.pdf` — full model code and output
+- `Code from ML Project.pdf` — full model code and output (the project's R code is provided as a PDF printout; the Stathead data export is not redistributed)
 
 ## Authors
 
 Vincent Rupp and Sean Littmann
+
+---
+
+Built by Vincent Rupp. Shared for portfolio and review purposes; please get in touch before reusing it.
