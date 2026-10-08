@@ -1,6 +1,6 @@
 # Predicting MLB All-Star Selections with Machine Learning
 
-Group project by **Vincent Rupp and Sean Littmann**, testing a wide range of machine learning methods to predict whether an MLB hitter would be selected as an All-Star the following season, using player season stats from Stathead covering 10 full seasons (2013–2023, excluding the COVID-shortened 2020 and 2021 years).
+Group project by **Vincent Rupp and Sean Littmann**, testing a wide range of machine learning methods to predict whether an MLB hitter would be selected as an All-Star the following season, using player season stats from Stathead covering 10 full seasons (2012–2023, excluding 2019 and 2020 because of COVID).
 
 ## The question
 
